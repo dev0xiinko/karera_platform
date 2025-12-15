@@ -1,7 +1,7 @@
 [package]
 name = "karera_platform"
 version = "0.1.0"
-authors = ["[your_name] <[your_email]>"]
+authors = ["[0xiinko]"]
 edition = "2021"
 
 [dependencies]
